@@ -5,12 +5,12 @@ This is my space for coding, experimenting with new ideas, and learning through 
 
 ---
 
-## 🚀 Currently in Development
+## ✨ Featured Project
 
-Right now, my main focus is on a classic game, implemented from scratch to sharpen fundamental skills.
+My latest completed work is a deep dive into the fundamentals of C programming through a classic game.
 
 #### 🎮 Rock, Paper, Scissors (in C99)
-A classic game of Rock, Paper, Scissors I'm implementing in C99. My goal is to practice core programming principles, memory management, and creating a clean, portable command-line application.
+A classic game of Rock, Paper, Scissors implemented from scratch in C99. This project was an exercise in core programming principles, memory management, and creating a clean, modular, and portable command-line application. It's fully documented and includes a CI/CD pipeline for automated builds.
 
 **[➡️ View the repository](https://github.com/b1sted-labs/rock-paper-scissors)**
 
@@ -29,10 +29,10 @@ I believe in using the right tool for the job. My primary technologies are:
 
 Here's a list of my projects. I'll be adding more over time!
 
-| Project                                                                            | Language | Status           |
-| ---------------------------------------------------------------------------------- | -------- | ---------------- |
-| [Rock, Paper, Scissors](https://github.com/b1sted-labs/rock-paper-scissors) <!-- 👈 ЗАМЕНИТЕ ССЫЛКУ --> | `C99`    | 🚧 In Progress   |
-| *More awesome projects coming soon...*                                             | `Python` | 💡 Planned       |
+| Project                                                                    | Language | Status         |
+| -------------------------------------------------------------------------- | -------- | -------------- |
+| [Rock, Paper, Scissors](https://github.com/b1sted-labs/rock-paper-scissors) | `C99`    | ✅ Completed   |
+| *More awesome projects coming soon...*                                     | `Python` | 💡 Planned     |
 
 ---
 
