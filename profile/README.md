@@ -1,14 +1,16 @@
-# Sandbox & Study Archive 🧪
+<h1 align="center">b1sted-labs</h1>
 
-Hi! This is a sandbox organization where I keep university lab works, experiments, and small side projects that don't quite fit on my main profile.
+<p align="center">
+  <strong>Учебные проекты, предполагающие написание кода.</strong>
+</p>
 
-- Archiving university coursework and pet projects
-- Focused on Low-level programming (C, Assembly) and Linux tooling
+<hr>
 
-## Links
+Здесь лежат работы, выполненные в рамках университетских курсов — с конкретным заданием, вариантом и требованиями преподавателя, а не свободные pet-проекты. Документация ведётся на русском: формулировки заданий и учебный контекст изначально русскоязычные.
 
-*   [Main GitHub Profile](https://github.com/b1sted)
-*   [My Personal Website](https://basted.ru)
-*   [Site with C Notes](https://docs.basted.ru)
+Свободные проекты без привязки к учёбе:
 
-Check out the repositories below 👇
+<p align="center">
+  <a href="https://github.com/b1sted"><img src="https://img.shields.io/badge/GitHub-b1sted-181717?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://basted.ru"><img src="https://img.shields.io/badge/Сайт-basted.ru-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
+</p>
